@@ -1,3 +1,10 @@
+'''
+With the correct email, pass, and OTP secret values, this script
+can be used to automate the Partner Portal login
+
+Author: Steve Reilly
+'''
+
 from selenium import webdriver
 import pyotp
 
