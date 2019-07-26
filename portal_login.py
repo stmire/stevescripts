@@ -1,6 +1,6 @@
 '''
 With the correct email, pass, and OTP secret values, this script
-can be used to automate the Partner Portal login
+can be used to automate the Partner Portal login flow
 
 Author: Steve Reilly
 '''
