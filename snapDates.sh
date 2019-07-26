@@ -1,6 +1,5 @@
 #!/bin/bash
-# Run this in the hidden .zfs/snapshot directory to see which
-# snapshots correspond to which dates
+# Run this in the hidden .zfs/snapshot directory to see which snapshots correspond to which dates
 
 # Clear the terminal
 clear
@@ -9,7 +8,7 @@ clear
 BLUE=$'\e[1;34m'
 END=$'\e[0m'
 
-# Ensure that you are working in the correct directory
+# Ensure that you are working in the correct directory (WIP)
 #pwd=$(pwd)
 #if [ $pwd != *".zfs/snapshot"* ]; then
 #	echo "You need to be in the hidden snapshot directory!"
